@@ -2,7 +2,7 @@
 
 The detailed information of 100 developers and researchers as follows：
 
-- The 100 domain-relevant participants were contacted via email, including full-time software developers (58%), academic researchers (27%), and independent contributors or open-source maintainers (15%).
+- The 100 domain-relevant participants were contacted via email, including full-time software developers (39%), academic researchers (35%), independent contributors or open-source maintainers (12%), and students(14%).
 
 - The participants have an average of 8.4 years of professional experience, with 72% having more than three years of active GitHub experience. In addition, 82% of the participants held a bachelor’s degree or higher, among whom 41% possessed a master’s or doctoral degree.
 
@@ -25,3 +25,4 @@ From the surveyed results, we can observe that:
 - In addition to this, 87% of the investigators believe more accurate and consistent repository tags would improve their productivity (e.g., in searching, organizing, or recommending repositories) (see Q7). 
 
 - All of these responses highlights the practical importance of proper Software Repository Categorization and current categorization mechanism of software repository hosting platforms has not fully meet the expectations of practitioners, and there lacks an effective way to address these obstacles to better organize and manage software repositories on such hosting platforms for both practitioners and researchers. 
+
